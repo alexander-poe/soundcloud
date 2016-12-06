@@ -1,0 +1,24 @@
+.tourdates {
+	height: 300px;
+	min-width: 33%;
+	border: solid 1px red;
+	display: inline-block;
+	float: left;
+}
+
+.youtube {
+	height: 300px;
+	min-width: 33%;
+	border: solid 1px green;
+	display: inline-block;
+	float: left;
+
+}
+
+.gif {
+	height: 300px;
+	min-width: 33%;
+	border: solid 1px blue;
+	display: inline-block;
+	float: left;
+}
